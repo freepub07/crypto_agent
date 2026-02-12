@@ -2,7 +2,7 @@
 Tento projekt demonstruje jednoduchého AI Agenta, který využívá **Function Calling** od OpenAI k získávání reálných dat z krypto burzy Binance.
 
 ## Funkce
-- Přijímá dotazy v přirozeném jazyce týkající se ceny kryptoměn (např. "Kolik stojí Bitcoin?").
+- Přijímá dotazy v přirozeném jazyce týkající se ceny kryptoměn (např. "Kolik stojí Bitcoin?" nebo "Jaká je cena Therea a Litecoinu?").
 - Automaticky rozpozná symbol kryptoměny a zavolá veřejné API burzy Binance.
 - Formátuje odpověď zpět uživateli.
 
